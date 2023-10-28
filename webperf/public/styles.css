@@ -1,6 +1,6 @@
 /* dont use import in css */
-@import url(background.css);
 
+@import url(background.css);
 
 body {
     font-family: 'Inter', sans-serif;

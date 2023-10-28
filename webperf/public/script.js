@@ -14,4 +14,6 @@ async function load() {
     });
 }
 
-window.onload = load;
+// window.onload = load;
+// what we need to have
+window.addEventListener("DOMContentLoaded", load);
