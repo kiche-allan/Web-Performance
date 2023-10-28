@@ -1,0 +1,4 @@
+ak.com  - 150ms(dns) + 150ms(tcp) + 150ms(ssl) + 200ms(http request)
+mobile.ak.com - 150ms(dns) + 150ms(tcp) + 150ms(ssl) + 200ms(http request)
+mobile.ak.com/default
+mobile.ak.com/default/page.tsx
